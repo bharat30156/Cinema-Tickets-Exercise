@@ -12,7 +12,6 @@ This repository contains my solution to the coding exercise provided by Departme
 - A SeatReservationService is implemented for reserving seats.
 - The TicketService interface is not modified, as per the constraints.
 - The TicketTypeRequest object is designed as immutable.
-- Submissions should be made public on GitHub, with a link shared via email to engineering.capability@dwp.gov.uk within 5 days.
 
 ## Ticket Types and Prices
 
